@@ -1,0 +1,6 @@
+{
+  "name": "Mountain Drive: Real Road",
+  "description": "Lightweight, fully offline 3D mountain highway driving and exploration simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
